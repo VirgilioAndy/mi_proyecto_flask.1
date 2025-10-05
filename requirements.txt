@@ -1,0 +1,6 @@
+Flask==2.3.2
+Flask-Login==0.7.0
+Flask-SQLAlchemy==3.0.3
+SQLAlchemy==2.1.0
+mysql-connector-python==8.1.0  # solo si usarás MySQL (opcional)
+python-dotenv==1.0.0
